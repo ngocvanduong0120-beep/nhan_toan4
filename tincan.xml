@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://5WSbq79WUob_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Phép nhân phân số</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6MXO5rx42ZD" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Introduction</name>
+			<description lang="und">Introduction</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6nUQCshLD0v" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">KHỞI ĐỘNG</name>
+			<description lang="und">KHỞI ĐỘNG</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6UCfOzLqgqO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Bối cảnh</name>
+			<description lang="und">Bối cảnh</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/5dMrqu3FDYP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Câu 1</name>
+			<description lang="und">Câu 1</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6MRl6ifMapV" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Câu 1 </name>
+			<description lang="und">Câu 1 </description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6CBif3pFiFY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">KHÁM PHÁ</name>
+			<description lang="und">KHÁM PHÁ</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6S3pRLHMWQb" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6G6DKfHI3ld" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/5gWKiV6oXPP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Chọn 1 đáp án đúng</name>
+			<description lang="und">Chọn 1 đáp án đúng</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6hs4KLoPKG2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Câu 8</name>
+			<description lang="und">Câu 8</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6hs4KLoPKG2/6ilZQAA0e9h" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6EuEmDylhJ8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Chọn 1 đáp án đúng</name>
+			<description lang="und">Chọn 1 đáp án đúng</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/5vtv31S58uV" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6QbC1u4dApE" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/5oIiYfE6kyG" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Chọn 1 đáp án đúng</name>
+			<description lang="und">Chọn 1 đáp án đúng</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/5i7XMPDp2jT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hỗn số</name>
+			<description lang="und">Hỗn số</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/5YGQ1yuHDEb" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Chọn 1 đáp án đúng</name>
+			<description lang="und">Chọn 1 đáp án đúng</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/5hO1wiETWZQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/5bdMzOHpSOI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Câu 1</name>
+			<description lang="und">Câu 1</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6f2ZI0G6qds" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Câu 1</name>
+			<description lang="und">Câu 1</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6JIcSwKnDD0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Câu 2</name>
+			<description lang="und">Câu 2</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/5ZLFAZ6zBrE" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Câu 10</name>
+			<description lang="und">Câu 10</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6mRwp2kL0mT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6bsf6bq4kyJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Kết thúc</name>
+			<description lang="und">Kết thúc</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/68U7ry730HQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Mở màn</name>
+			<description lang="und">Mở màn</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6Q7NGJIktnr" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Fb_bai1</name>
+			<description lang="und">Fb_bai1</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/5VvDhghQdFM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Fb_bai2</name>
+			<description lang="und">Fb_bai2</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6Vo8MK6ap8y" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Fb_bai3</name>
+			<description lang="und">Fb_bai3</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6n1Eh7QfQra" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Câu 1</name>
+			<description lang="und">Câu 1</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6kSdkEM2HlO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Câu 3</name>
+			<description lang="und">Câu 3</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6U875uYNrBH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Câu 2</name>
+			<description lang="und">Câu 2</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6KipNAyckr6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Fb tổng màn 2</name>
+			<description lang="und">Fb tổng màn 2</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6eJWr5FCIg9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Chiến thắng</name>
+			<description lang="und">Chiến thắng</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/5im2VbvJDvJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Thua cuộc</name>
+			<description lang="und">Thua cuộc</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6Zg5zC1znp9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Mở đầu</name>
+			<description lang="und">Mở đầu</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/5phZyLedLIV" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Mở màn</name>
+			<description lang="und">Mở màn</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6AYFtmiXiXC" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Câu 1</name>
+			<description lang="und">Câu 1</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6AYFtmiXiXC/642vHae4lsC" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<source>
+				<component>
+					<id>statement_6GsM8mGJTQc</id>
+					<description lang="und">thả 1 1 - Rectangle 1</description>
+				</component>
+				<component>
+					<id>statement_6qQm8z6Ly1E</id>
+					<description lang="und">thả 2 1 - Rectangle 1</description>
+				</component>
+				<component>
+					<id>statement_6arQoWsulzs</id>
+					<description lang="und">thả 3 1 - Rectangle 1</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6MDoN5T5iPU</id>
+					<description lang="und">kéo 1 1 - Rectangle 1</description>
+				</component>
+				<component>
+					<id>choice_6cAqcvQsqlr</id>
+					<description lang="und">kéo 2 1 - Rectangle 1</description>
+				</component>
+				<component>
+					<id>choice_6W1xzKeu0nk</id>
+					<description lang="und">kéo 3 1 - Rectangle 1</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/60G5NvdcvUT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Fb_bai1</name>
+			<description lang="und">Fb_bai1</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/5yQD9dD4rMB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Câu 2</name>
+			<description lang="und">Câu 2</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/5yQD9dD4rMB/6DW0gzd14it" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<source>
+				<component>
+					<id>statement_5VcNQqu52g8</id>
+					<description lang="und">thả 1 1 - Rectangle 1</description>
+				</component>
+				<component>
+					<id>statement_5ycjLmZO6Zq</id>
+					<description lang="und">thả 2 1 - Rectangle 1</description>
+				</component>
+				<component>
+					<id>statement_6cF0Wj8AMuw</id>
+					<description lang="und">thả 3 1 - Rectangle 1</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6OJdIvV5Ddm</id>
+					<description lang="und">kéo 1 1 - Rectangle 1</description>
+				</component>
+				<component>
+					<id>choice_6M6HM9wNuMf</id>
+					<description lang="und">kéo 2 1 - 5</description>
+				</component>
+				<component>
+					<id>choice_5XpQ4JoQLBn</id>
+					<description lang="und">kéo 3 1 - Rectangle 1</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6oMWgDrPewB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Fb_bai2</name>
+			<description lang="und">Fb_bai2</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6Rs25hguC6a" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Câu 3</name>
+			<description lang="und">Câu 3</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/65ySC7chFpR" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Fb_bai3</name>
+			<description lang="und">Fb_bai3</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6Xvwcs6sHRV" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Thua cuộc</name>
+			<description lang="und">Thua cuộc</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/65kGYhh8uUk" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Fb tổng màn 1</name>
+			<description lang="und">Fb tổng màn 1</description>
+		</activity>
+		<activity id="http://5WSbq79WUob_course_id/6KAXhqD7oOC" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Chiến thắng</name>
+			<description lang="und">Chiến thắng</description>
+		</activity>
+	</activities>
+</tincan>
